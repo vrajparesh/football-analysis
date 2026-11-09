@@ -5,3 +5,4 @@ Data: StatsBomb Open Data (github.com/statsbomb/open-data). Raw data is not stor
 
 | # | Date | Question | Notebook |
 |---|------|----------|----------|
+| 1 | 15 Nov 2026 | Was Vardy's 2015/16 just luck? | No: 19 non-pen goals from 17.6 xG; Mahrez and Drinkwater fed him 10 of them | [notebook](week01_vardy_xg.ipynb) |
